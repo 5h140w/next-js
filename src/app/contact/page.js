@@ -7,7 +7,7 @@ const Page = () => {
     <div className={styles.container}>
       <Navbar />
       <main className={styles.main}>
-        <h1 className={styles.title}>Contact me</h1>
+        <h1 className={styles.title}>ContactX me</h1>
         <p>
           Feel free to send me an email at XX@XXX.com or connect me on my github
         </p>
